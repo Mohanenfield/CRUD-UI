@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/style.css"],"names":[],"mappings":"AAAA,OACI,iBAAkB,CAClB,qCAA0C,CAC1C,iBAAkB,CAClB,mBACJ","file":"main.c7999278.chunk.css","sourcesContent":[".class{\r\n    text-align: center;\r\n    background-color: rgba(19, 202, 117, 0.89);\r\n    border-radius: 50%;\r\n    border-style: dashed;\r\n}"]}
